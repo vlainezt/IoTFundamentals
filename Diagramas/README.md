@@ -1,2 +1,3 @@
 # IoT fundamentals V2
--Capitulo 1
+Capítulo 1
+Cosas y conexiones
